@@ -1,5 +1,5 @@
 import React from 'react';
-import { ChatProvider } from './context/ChatContext';
+import { ChatProvider } from './components/context/ChatContext'
 import Sidebar from './components/Sidebar';
 import ChatArea from './components/ChatArea';
 import './App.css';
